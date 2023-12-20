@@ -23,9 +23,9 @@
 		"png"
 	],
 	"dependencies": {
+		"@hacksawstudios/optipng-bin": "^9.0.0",
 		"exec-buffer": "^3.0.0",
-		"is-png": "^2.0.0",
-		"optipng-bin": "^7.0.0"
+		"is-png": "^2.0.0"
 	},
 	"devDependencies": {
 		"ava": "^3.8.0",
